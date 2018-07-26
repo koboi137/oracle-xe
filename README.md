@@ -5,7 +5,7 @@ Di sini saya buat menjadi se simple mungkin agar para pengguna/developer yang in
 
 # Cara installasi
 1. ```$ git clone https://github.com/koboi137/oracle-xe```
-2. ```$ cd OracleXE```
+2. ```$ cd oracle-xe```
 3. ```$ bash setup.sh```
 
 Secara default service oracle-xe belum otomatis berjalan saat system operasi di restart.
