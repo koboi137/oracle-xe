@@ -8,9 +8,6 @@ Di sini saya buat menjadi se simple mungkin agar para pengguna/developer yang in
 2. ```$ cd oracle-xe```
 3. ```$ bash setup.sh```
 
-Secara default service oracle-xe belum otomatis berjalan saat system operasi di restart.
-Untuk membuat agar service oracle-xe berjalan saat di restart, kita bisa menambahkan perintah "bash /usr/sbin/startup.sh" ke dalam file /etc/rc.local yang ada pada system.
-
 # Konfigurasi APEX
 ```
 # http://localhost:8080/apex/apex_admin
